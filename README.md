@@ -1,4 +1,6 @@
 explore_ostack
 ==============
 
-My First Repository
+My First Repository on GitHub.
+
+Hello-World!
